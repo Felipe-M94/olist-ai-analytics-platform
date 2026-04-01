@@ -1,0 +1,24 @@
+tables:
+  - name: olist_orders
+    file: olist_orders_dataset.csv
+
+  - name: olist_customers
+    file: olist_customers_dataset.csv
+
+  - name: olist_order_items
+    file: olist_order_items_dataset.csv
+
+  - name: olist_products
+    file: olist_products_dataset.csv
+
+  - name: olist_sellers
+    file: olist_sellers_dataset.csv
+
+  - name: olist_order_payments
+    file: olist_order_payments_dataset.csv
+
+  - name: olist_order_reviews
+    file: olist_order_reviews_dataset.csv
+
+  - name: olist_geolocation
+    file: olist_geolocation_dataset.csv
